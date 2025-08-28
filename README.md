@@ -1,4 +1,4 @@
-# ⚡ Markmix Studios Utility Scripts
+# ⚡ Markmix Utility Scripts
 
 A collection of simple, lightweight scripts to check **System Information** and **System Security State** on both **Windows (PowerShell)** and **Linux (Bash)**.  
 
