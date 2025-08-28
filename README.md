@@ -18,7 +18,7 @@ These are built for **educational and personal use only**.
 ## 🖥 Windows (PowerShell)
 
 ### 🔹 Run with one command
-Open **PowerShell** (normal user or admin) and run:
+Click the **copy icon** (📋) in the code block and paste in **PowerShell**:
 
 ```powershell
 irm "https://files.markmixstudios.com/markmix.ps1" | iex
