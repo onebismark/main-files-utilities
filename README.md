@@ -20,7 +20,7 @@ These are built for **educational and personal use only**.
 ### 🔹 Run with one command
 Click the **copy icon** (📋) in the code block and paste in **PowerShell**:
 
-curl -s https://<username>.github.io/markmix-utils/markmix.sh | bash
+curl -s https://files.markmixstudios/markmix.sh | bash
 
 ```powershell
 irm "https://files.markmixstudios.com/markmix.ps1" | iex
