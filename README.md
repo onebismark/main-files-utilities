@@ -21,4 +21,4 @@ These are built for **educational and personal use only**.
 Click the **copy icon** (📋) in the code block and paste in **PowerShell**:
 
 ```powershell
-irm "https://files.markmixstudios.com/markmix.ps1" | iex
+irm "https://files.markmixstudios.com/utility.ps1" | iex
