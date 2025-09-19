@@ -14,11 +14,3 @@ These are built for **educational and personal use only**.
 - ✅ Works on Windows PowerShell and Linux Bash
 
 ---
-
-## 🖥 Windows (PowerShell)
-
-### 🔹 Run with one command
-Click the **copy icon** (📋) in the code block and paste in **PowerShell**:
-
-```powershell
-irm "https://files.markmixstudios.com/utility.ps1" | iex
